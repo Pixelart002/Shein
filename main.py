@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import telebot
 
 # ---------------- CONFIG ----------------
-TELEGRAM_BOT_TOKEN = "8189030667:AAGlp41jjZlSodHKifjN1rlzdUxIDcRGmlQ" #replace with your bot token 
+TELEGRAM_BOT_TOKEN = "8521856799:AAEuW7QepBx4LebeCINZsycIEMKlMg2c9Uo" #replace with your bot token 
 ADMIN_CHAT_ID = "8455570642" #replace with your chat id
 COOKIES_FILE = "cookies.json"
 CONFIG_FILE = "config.json"
